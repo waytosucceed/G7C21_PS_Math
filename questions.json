@@ -1,0 +1,251 @@
+{
+  "heading": "Start the Practice Sheet",
+  "topics": [
+    {
+      "heading": "Quadrilateral Exploration Questions",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which of the following is not a quadrilateral?",
+          "options": [
+            "Square",
+            "Hexagon",
+            "Rectangle",
+            "Rhombus"
+          ],
+          "answer": 1,
+          "explanation": "A quadrilateral is a polygon with exactly four sides and four angles. A hexagon is not a quadrilateral because it has six sides."
+        },
+        {
+          "questionNo": 2,
+          "question": "Another group created a section of the mural featuring a quadrilateral with diagonals that are always equal and bisect each other, though the angles are not necessarily right angles. What is the name of this shape?",
+          "options": [
+            "Rhombus",
+            "Square",
+            "Rectangle",
+            "Kite"
+          ],
+          "answer": 2,
+          "explanation": "A rectangle is a type of parallelogram where all angles are right angles. In a rectangle, the diagonals are always equal in length and they bisect each other."
+        },
+        {
+          "questionNo": 3,
+          "question": "In one part of the mural, the students used a shape where all angles were equal to each other, though the sides were not necessarily all the same length. What is this shape?",
+          "options": [
+            "Square",
+            "Parallelogram",
+            "Rectangle",
+            "Rhombus"
+          ],
+          "answer": 2,
+          "explanation": "The shape where all angles are equal to each other, though the sides are not necessarily all the same length, is a rectangle. In a rectangle, all angles are 90 degrees, making them equal, but the lengths of the sides can vary."
+        },
+        {
+          "questionNo": 4,
+          "img":"./assests/images/4.jpg",
+          "question": "Another group created a shape as shown below. What name best describes this shape?",
+          "options": [
+            "Parallelogram",
+            "Rectangle",
+            "Trapezium",
+            "Kite"
+          ],
+          "answer": 2,
+          "explanation": "A trapezium is a quadrilateral with one pair of parallel sides. Look at the shape. Sides with matching arrows are parallel. Therefore, this shape is best described as a trapezium."
+        },
+        {
+          "questionNo": 5,
+          "question": "One group noticed a shape in their mural that had only one pair of opposite angles that were equal. What name best describes this shape?",
+          "options": [
+            "Parallelogram",
+            "Trapezium",
+            "Rectangle",
+            "Rhombus"
+          ],
+          "answer": 1,
+          "explanation": "A trapezium is a quadrilateral with only one pair of parallel sides. It does not necessarily have both pairs of opposite angles equal; however, it can have just one pair of opposite angles equal."
+        },
+        {
+          "questionNo": 6,
+          "question": "The students wanted to include a regular quadrilateral in the mural. Which one of the following should they choose?",
+          "options": [
+            "Kite",
+            "Trapezium",
+            "Square",
+            "Rectangle"
+          ],
+          "answer": 2,
+          "explanation": "A regular quadrilateral is one where all sides are of equal length and all angles are of equal measure. A square is a regular quadrilateral because all four sides are equal in length, and all four angles are right angles (90 degrees)."
+        },
+        {
+          "questionNo": 7,
+          "question": "The mural featured a quadrilateral where the diagonals are bisected by each other but are not necessarily equal in length. What is this shape?",
+          "options": [
+            "Kite",
+            "Rectangle",
+            "Trapezium",
+            "Parallelogram"
+          ],
+          "answer": 3,
+          "explanation": "The shape described, where the diagonals are bisected by each other but are not necessarily equal in length, is a parallelogram. In a parallelogram, the diagonals bisect each other, meaning they cut each other in half at their intersection point. However, the diagonals are not required to be of equal length."
+        },
+        {
+          "questionNo": 8,
+          "question": "One group found a parallelogram which has equal diagonals. What do you call this shape?",
+          "options": [
+            "Trapezium",
+            "Rhombus",
+            "Kite",
+            "Rectangle"
+          ],
+          "answer": 3,
+          "explanation": "A type of parallelogram where opposite sides are equal, all angles are right angles, and the diagonals are equal in length is known as a rectangle."
+        },
+        {
+          "questionNo": 9,
+          "question": "In their mural, the students included a quadrilateral where the sum of the interior angles is 360 degrees, and only one pair of sides is parallel. Which shape does this describe?",
+          "options": [
+            "Rhombus",
+            "Trapezium",
+            "Parallelogram",
+            "Rectangle"
+          ],
+          "answer": 1,
+          "explanation": "A trapezium has exactly one pair of parallel sides, and the sum of the interior angles is always 360 degrees."
+        },
+        {
+          "questionNo": 10,
+          "img":"./assests/images/10.jpg",
+          "question": "One section of the mural featured a shape shown below. What name best describes this shape?",
+          "options": [
+            "Rectangle",
+            "Square",
+            "Trapezium",
+            "Square"
+          ],
+          "answer": 0,
+          "explanation": "A rectangle is a parallelogram with 4 right angles. Look at the shape. All four angles are right angles. This shape is best described as a rectangle."
+        },
+        {
+          "questionNo": 11,
+          "question": "One group included a shape in their mural where the diagonals are not equal, but each diagonal bisects the other at right angles. What is the name of this shape?",
+          "options": [
+            "Rectangle",
+            "Kite",
+            "Parallelogram",
+            "Rhombus"
+          ],
+          "answer": 1,
+          "explanation": "The shape where the diagonals are not equal, but each diagonal bisects the other at right angles, is a kite. In a kite, the diagonals intersect at right angles, but they are not necessarily of equal length."
+        },
+        {
+          "questionNo": 12,
+          "question": "While working on their section of the mural, one group used a shape with all sides equal, but the angles were not necessarily 90 degrees. What name best describes this shape?",
+          "options": [
+            "Kite",
+            "Rectangle",
+            "Rhombus",
+            "Parallelogram"
+          ],
+          "answer": 2,
+          "explanation": "A rhombus has all sides of equal length, but the angles are not necessarily 90 degrees."
+        },
+        {
+          "questionNo": 13,
+          "question": "Complete the following statement in order to make the statement true about the shapes in the mural: The measure of each angle of a convex quadrilateral is _____.",
+          "options": [
+            "360°",
+            "340°",
+            "180°",
+            "360°"
+          ],
+          "answer": 2,
+          "explanation": "The measure of each angle of a convex quadrilateral is less than 180°. The sum of the interior angles of a convex quadrilateral is always 360°, but each angle itself is less than 180°."
+        },
+        {
+          "questionNo": 14,
+          "question": "During the mural project, a group chose a quadrilateral where the diagonals are always perpendicular, but the sides are not necessarily all equal. What is this shape called?",
+          "options": [
+            "Rectangle",
+            "Kite",
+            "Parallelogram",
+            "Square"
+          ],
+          "answer": 1,
+          "explanation": "A kite has diagonals that are perpendicular to each other. The sides are not necessarily all equal, but it meets the requirement of having perpendicular diagonals."
+        },
+        {
+          "questionNo": 15,
+          "question": "A team decided to use a quadrilateral with all sides equal and diagonals that bisect each other at right angles. Which shape did they choose?",
+          "options": [
+            "Rhombus",
+            "Square",
+            "Rectangle",
+            "Trapezium"
+          ],
+          "answer": 0,
+          "explanation": "A rhombus is a quadrilateral with all sides of equal length and diagonals that bisect each other at right angles (90 degrees)."
+        },
+        {
+          "questionNo": 16,
+          "question": "The students discovered that a certain quadrilateral has exactly two distinct consecutive pairs of sides of equal length. What is this shape?",
+          "options": [
+            "Rectangle",
+            "Rhombus",
+            "Parallelogram",
+            "Kite"
+          ],
+          "answer": 3,
+          "explanation": "In a kite, exactly two distinct consecutive pairs of sides are of equal length. This is a key characteristic of a kite."
+        },
+        {
+          "questionNo": 17,
+          "img":"./assests/images/17.jpg",
+          "question": "While working on the mural, one group noticed a shape. What name best describes this shape?",
+          "options": [
+            "Kite",
+            "Rhombus",
+            "Rectangle",
+            "Square"
+          ],
+          "answer": 1,
+          "explanation": "A rhombus is a parallelogram with all four sides of equal length. The shape described has sides with matching tick marks, indicating equal length. Hence, it is best described as a rhombus."
+        },
+        {
+          "questionNo": 18,
+          "question": "In another section, they included a shape which has opposite sides of equal length. Which of the following describes this quadrilateral found in the mural?",
+          "options": [
+            "Rectangle",
+            "Square",
+            "Trapezium",
+            "Rhombus"
+          ],
+          "answer": 3,
+          "explanation": "A rhombus is a quadrilateral where opposite sides are of equal length."
+        },
+        {
+          "questionNo": 19,
+          "question": "In a section of the mural, the students depicted that “In a parallelogram, opposite sides are parallel, and opposite angles are equal.” Is the given statement true or false?",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "A parallelogram has both pairs of opposite sides parallel and opposite angles equal. Therefore, the statement is true."
+        },
+        {
+          "questionNo": 20,
+          "question": "They come across a unique quadrilateral with specific properties. Which of the following describes a quadrilateral kite found in the mansion?",
+          "options": [
+            "Opposite sides equal",
+            "Opposite angles equal",
+            "Diagonals are perpendicular to each other.",
+            "Each angle is a right angle"
+          ],
+          "answer": 2,
+          "explanation": "In a kite, the diagonals intersect at right angles. This is a defining characteristic of kites."
+        }
+      ]
+    }
+  ]
+}
